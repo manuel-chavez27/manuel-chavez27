@@ -5,9 +5,9 @@
   - HTML5 ✔️
   - CSS3 ✔️
   - Javascript ✔️
-  - SASS 👨‍💻
-  - Bootstrap
-  - PHP
+  - SASS ✔️
+  - Bootstrap ✔️
+  - PHP ✔️
   - Laravel
   - Angular
   - Vue
